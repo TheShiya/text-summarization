@@ -1,2 +1,2 @@
 # Efficient Multi-Document Summarization
-### Submodular Function Optimization + Heaps
+### With the help of submodular functions and minheaps
