@@ -1,1 +1,2 @@
-### Document Summarization with Submodular Function Optimization
+# Efficient Multi-Document Summarization
+### Submodular Function Optimization + Heaps
