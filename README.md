@@ -1,2 +1,2 @@
-# Efficient Multi-Document Summarization
-### With the help of submodular functions and minheaps
+# Multi-Document Summarization
+### With submodular functions and minheaps
