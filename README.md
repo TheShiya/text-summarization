@@ -1,4 +1,4 @@
-# Multi-Document Summarization
+# Text Summarization
 ### With submodular functions and minheaps
 
 Extractive summarization of multiple documents involves extracting a subset documents that summarizes the corpus. Unlike abstractive summarization, extractive sumamrization does not generate new sentences.
